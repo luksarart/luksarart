@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Matěj Prokop
+- 👀 Projetcs currently in C#
+- 🌱 I’m currently learning python
+- 🎒 Microsoft studentské trenérské centrum
+- 📫 Discord: Matěj#2114
